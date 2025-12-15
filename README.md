@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/seeeeeeong/leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/seeeeeeong/leetcode/tree/master/0042-trapping-rain-water) |
+| [0238-product-of-array-except-self](https://github.com/seeeeeeong/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0819-most-common-word](https://github.com/seeeeeeong/leetcode/tree/master/0819-most-common-word) |
 | [0937-reorder-data-in-log-files](https://github.com/seeeeeeong/leetcode/tree/master/0937-reorder-data-in-log-files) |
 ## Sorting
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/seeeeeeong/leetcode/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/seeeeeeong/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
